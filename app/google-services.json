@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "153587214806",
+    "project_id": "nsec-discussion-forum",
+    "storage_bucket": "nsec-discussion-forum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153587214806:android:da9c26bfb42f9ae9649c77",
+        "android_client_info": {
+          "package_name": "com.example.nsecdiscussionforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153587214806-37c6jj7r4ivivscjhi4b9foci4vtajp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nsecdiscussionforum",
+            "certificate_hash": "2660b08cbf86b2528f733f6530e15174c01bedd8"
+          }
+        },
+        {
+          "client_id": "153587214806-9u5s5s2o7f0nc8mnnqkr4c8gpdfdgu79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZDKLPSiWjdfUtDV2rAEf0dh0vhNBe3d8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153587214806-9u5s5s2o7f0nc8mnnqkr4c8gpdfdgu79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
